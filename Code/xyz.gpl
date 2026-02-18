@@ -1,0 +1,16 @@
+string window_title = "Project 4 t013.gpl ***PRESS q TO QUIT***";
+
+rectangle box;
+double the_height=box.y;
+
+//circle steering_wheel;
+//int horizonal=steering_wheel.x;
+
+//triangle three_sider;
+//double the_color=three_sider.red;
+
+//pixmap photofinish;
+//string name=photofinish.filename;
+
+//textbox signage;
+//string largeness=signage.size;
